@@ -27,7 +27,8 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
 gem 'sass-rails'
-
+gem 'will_paginate', '~> 3.0.6'
+gem 'simple_form'
 gem 'rails_12factor', group: :production
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
